@@ -7,7 +7,7 @@ La simulación por computador es un campo de las ciencias de la computación que
 
 ## Metodología
 
-El taller se desarrolla con una metodología teórico - práctica, con mayór prioridad a los contenidos prácticos.  Las sesiones consistirarn en cortas introducciones teóricas al tema, seguido de ejercicios de simulación desarrollados en el entorno de programación processing ( http://processing.org ). Los recursos y materiales del taller serán compartidos con los participantes a través de un repositorio de código y archivos, que permanecerá online aún después del taller.
+El taller se desarrolla con una metodología teórico - práctica, con mayor prioridad a los contenidos prácticos.  Las sesiones consistirarn en cortas introducciones teóricas al tema, seguido de ejercicios de simulación desarrollados en el entorno de programación processing ( http://processing.org ). Los recursos y materiales del taller serán compartidos con los participantes a través de un repositorio de código y archivos, que permanecerá online aún después del taller.
 
 
 ##Contenidos
@@ -16,11 +16,13 @@ El taller se desarrolla con una metodología teórico - práctica, con mayór pr
 Introducción a la programación, Introducción a la simulación:  movimiento, comportamiento y tiempo.
 
 ### Sesión 2
-Dinámicas emergentes: agentes autónomos, creación y uso de clases.
 Simulación física: sistemas de partículas, fluídos, cuerpos rígidos.  
 
 ### Sesión 3
 Trabajando con el espacio: Voronoi, circle packing y sistemas L.
+
+### Sesión 4
+Dinámicas emergentes: agentes autónomos, creación y uso de clases.
 
 
 ##Bibliografía y recursos online
@@ -35,4 +37,4 @@ Trabajando con el espacio: Voronoi, circle packing y sistemas L.
 
 * Bohnacker, Hartmut. Generative Gestaltung: Entwerfen, Programmieren, Visualisieren. 1. Aufl. ed. Mainz: Schmidt, 2009. ( website: http://generative-gestaltung.de ).
 
-* Landa, Manuel. Philosophy and Simulation: The Emergence of Synthetic Reason. London: Continuum, 2011.
+* De Landa, Manuel. Philosophy and Simulation: The Emergence of Synthetic Reason. London: Continuum, 2011.
