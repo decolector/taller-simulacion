@@ -37,7 +37,8 @@ void setup(){
   cuerpo.createFixture(fd);
 }
 
-void draw(){
+void draw(){  
+  background(255);
   box2d.step();
   Vec2 pos = box2d.getBodyPixelCoord(cuerpo);
   float a = cuerpo.getAngle();
