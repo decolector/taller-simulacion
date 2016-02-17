@@ -12,17 +12,17 @@ El taller se desarrolla con una metodología teórico - práctica, con mayor pri
 
 ##Contenidos
 
-###Sesión 1 
-Introducción a la programación, Introducción a la simulación:  movimiento, comportamiento y tiempo.
+###Sesión 1
+Introducción a la programación, Introducción a la simulación:  movimiento simple y vectores.
 
 ### Sesión 2
-Simulación física: sistemas de partículas, fluídos, cuerpos rígidos.  
+Creación de clases. movimiento fuerzas, aceleración angular.  
 
 ### Sesión 3
-Trabajando con el espacio: Voronoi, circle packing y sistemas L.
+Sistemas de partículas.
 
 ### Sesión 4
-Dinámicas emergentes: agentes autónomos, creación y uso de clases.
+Dinámicas emergentes: agentes autónomos.
 
 
 ##Bibliografía y recursos online
