@@ -40,29 +40,9 @@ class Particula {
   void dibujar() {
     stroke(0);
     fill(175);
-    ellipse(posicion.x,posicion.y, radio, radio);
+    ellipse(posicion.x,posicion.y, radio*2, radio*2);
   }
- 
- //Esta funcion comprueba que la posicion del objeto este dentro de los limites
- //del espacio, creando un espacio toroidal
- /*
-  void comprobarLimites() {
-    if (posicion.x > width) {
-      posicion.x = 0;
-    } else if (posicion.x < 0) {
-      posicion.x = width;
-    }
- 
-    if (posicion.y > height) {
-      posicion.y = 0;
-    } else if (posicion.y < 0) {
-      posicion.y = height;
-    }
-  } 
-  */
   
-   //Esta funcion comprueba que la posicion del objeto este dentro de los limites
- //del espacio, creando un espacio toroidal
  
   void comprobarLimites() {
     //Verificamos que la posicion esté dentro de los limites
