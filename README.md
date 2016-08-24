@@ -10,6 +10,14 @@ La simulación por computador es un campo de las ciencias de la computación que
 El taller se desarrolla con una metodología teórico - práctica, con mayor prioridad a los contenidos prácticos.  Las sesiones consistirarn en cortas introducciones teóricas al tema, seguido de ejercicios de simulación desarrollados en el entorno de programación processing ( http://processing.org ). Los recursos y materiales del taller serán compartidos con los participantes a través de un repositorio de código y archivos, que permanecerá online aún después del taller.
 
 
+## Prerrequisitos
+
+Para avanzar rápidamente en el tema, es necesario realizar el tutorial introductorio a processing antes de iniciar el taller:
+
+
+http://hello.processing.org/
+
+
 ##Contenidos
 
 ###Sesión 1
